@@ -1,0 +1,7 @@
+*.png
+*.mp4
+*.toe
+*.tox
+*.toe.bak
+*.tox.bak
+Backup/
