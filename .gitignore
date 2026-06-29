@@ -1,7 +1,18 @@
+# Media files
 *.png
 *.mp4
 *.toe
 *.tox
+
+# TouchDesigner backups
 *.toe.bak
 *.tox.bak
 Backup/
+
+# macOS
+.DS_Store
+._*
+
+# System
+*.tmp
+*.log
